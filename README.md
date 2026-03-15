@@ -6,16 +6,12 @@ Sou estudante de **Ciência da Computação no Cesar School**, com grande intere
 
 Tenho focado meus estudos principalmente em programação, lógica e desenvolvimento de sistemas, buscando evoluir continuamente como desenvolvedor e aprender novas tecnologias.
 
----
-
 ## Sobre mim
 
 🎓 Estudante de Ciência da Computação  
 💻 Desenvolvedor em formação  
 📍 Recife, Brasil  
 🚀 Interesse em tecnologia, desenvolvimento de software e resolução de problemas  
-
----
 
 ## Tecnologias
 
@@ -42,8 +38,6 @@ CSS
 </td>
 </tr>
 </table>
-
----
 
 Sempre buscando evoluir como desenvolvedor e aprender cada vez mais sobre tecnologia.
 
