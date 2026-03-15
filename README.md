@@ -4,7 +4,7 @@ Meu nome é **Ranilton Araújo da Silva Raposo Júnior**.
 
 Sou estudante de **Ciência da Computação no Cesar School**, com grande interesse em tecnologia e desenvolvimento de software.
 
-Tenho focado meus estudos principalmente em programação, lógica e construção de sistemas, buscando evoluir continuamente como desenvolvedor e aprender novas tecnologias.
+Tenho focado meus estudos principalmente em programação, lógica e desenvolvimento de sistemas, buscando evoluir continuamente como desenvolvedor e aprender novas tecnologias.
 
 ---
 
@@ -19,12 +19,29 @@ Tenho focado meus estudos principalmente em programação, lógica e construçã
 
 ## Tecnologias
 
-<div>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+<table>
+<tr>
+<td align="center">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br>
+Python
+</td>
+
+<td align="center">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br>
+JavaScript
+</td>
+
+<td align="center">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><br>
+HTML
+</td>
+
+<td align="center">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><br>
+CSS
+</td>
+</tr>
+</table>
 
 ---
 
